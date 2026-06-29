@@ -59,7 +59,7 @@
     "eslint-plugin-prettier": "^5.5.6",
     "husky": "^9.1.7",
     "lint-staged": "^17.0.8",
-    "prettier": "^3.8.4",
+    "prettier": "^3.9.3",
     "standard-version": "^9.5.0",
     "standard-version-expo": "^1.0.3",
     "typescript": "~6.0.3"
